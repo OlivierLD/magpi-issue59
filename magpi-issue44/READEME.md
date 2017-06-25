@@ -1,1 +1,0 @@
-Code for the Power up your life with Raspberry Pi cover feature from issue 44 of The MagPi
